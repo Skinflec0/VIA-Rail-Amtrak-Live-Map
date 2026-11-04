@@ -9,7 +9,7 @@ Live positions, speed, heading, next-station info, and (for VIA) consist details
 - **Live train positions** for both VIA Rail and Amtrak
 - **Color-coded markers** by network and equipment type (Venture, LRC, HEP, Renaissance, Budd, RDC, etc.)
 - **Next station** with scheduled / estimated times and delay
-- **Consist lookup** (VIA only) — car types and locomotives via [traincar.info](https://traincar.info)
+- **Consist lookup** (VIA only) - car types and locomotives via [traincar.info](https://traincar.info)
 - **Ghost markers** showing estimated forward position based on speed + heading
 - **Spot mode** — click near the tracks to see which trains are heading toward that point and approximate arrival times
 - **Railway tracks overlay** (OpenRailwayMap)
