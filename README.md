@@ -11,7 +11,7 @@ Live positions, speed, heading, next-station info, and (for VIA) consist details
 - **Next station** with scheduled / estimated times and delay
 - **Consist lookup** (VIA only) - car types and locomotives via [traincar.info](https://traincar.info)
 - **Ghost markers** showing estimated forward position based on speed + heading
-- **Spot mode** — click near the tracks to see which trains are heading toward that point and approximate arrival times
+- **Spot mode** - click near the tracks to see which trains are heading toward that point and approximate arrival times
 - **Railway tracks overlay** (OpenRailwayMap)
 - **Dark / light theme** (follows system preference, can be toggled)
 - **Your location** button
