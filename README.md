@@ -2,9 +2,7 @@
 
 A real-time interactive map of **VIA Rail** (Canada) and **Amtrak** (United States) trains.
 
-Live positions, speed, heading, next-station info, and (for VIA) consist details — all in a clean, mobile-friendly interface.
-
-![Map preview](https://via.example.com/preview.png) <!-- replace with a real screenshot -->
+Live positions, speed, heading, next-station info, and (for VIA) consist details.
 
 ## Features
 
@@ -96,9 +94,7 @@ Requires JavaScript and a reasonably recent browser for `fetch`, `AbortControlle
 
 ## License
 
-MIT (or choose another license and update this section).
-
----
+MIT
 
 **Not affiliated with VIA Rail or Amtrak.**  
 Data is provided as-is and may occasionally be delayed or incomplete.
